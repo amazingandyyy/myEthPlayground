@@ -1,0 +1,14 @@
+{
+  "contract_name": "BasicDataTypes",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040526000805460ff191660ff1790553415601b57600080fd5b5b60005460ff165b505b60368060326000396000f30060606040525b600080fd00a165627a7a723058208ffb1cdab8ebeb6ce75670c5486733045faff645ed3b41d4ae562580c6a14b4a0029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1501360601262
+}
