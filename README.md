@@ -2,8 +2,7 @@
 
 feel free to hangaround and check any contracts and test file.
 
-clone down
-one tab in terminal
+clone down then open one tab in terminal
 ```
 $ testrpc
 ```
