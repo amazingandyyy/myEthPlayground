@@ -4,11 +4,15 @@ feel free to hangaround and check any contracts and test file.
 
 clone down
 one tab in terminal
-`$ testrpc`
+```
+$ testrpc
+```
 
 new tab in terminal, in the folder->
-`$ truffle deploy`
-`$ truffle test`
+```
+$ truffle deploy
+$ truffle test
+```
 
 
 cheers
