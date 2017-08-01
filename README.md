@@ -2,7 +2,15 @@
 
 feel free to hangaround and check any contracts and test file.
 
-clone down then open one tab in terminal
+## clone down and prepare
+```
+$ npm install -g ethereumjs-testrpc truffle
+```
+
+
+## Start to use it
+
+one tab in terminal
 ```
 $ testrpc
 ```
